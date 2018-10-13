@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Shockwave {
+public class Shockwave {//1zada4a
 
     public static void main(String[] args) throws IOException {
 
